@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg3156"
+   xml:space="preserve"
+   enable-background="new -2 -2 64 64"
+   viewBox="-2 -2 64 80"
+   y="0px"
+   x="0px"
+   version="1.1"><title
+     id="title3164">MISURATORE</title><metadata
+     id="metadata3162"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>MISURATORE</dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3160" /><path
+     id="path3150"
+     d="M58.75,27.531c-1.807-0.01-3.271,1.125-3.281,2.547l-0.021,3.078H35.422V26.13h4.401c3.136,0,5.667-1.984,5.667-4.448  V10.516c0-2.458-2.531-4.443-5.667-4.443H20.177c-3.141,0-5.667,1.984-5.667,4.443v11.167c0,2.464,2.526,4.448,5.667,4.448h3.625  v7.026H5.318l-0.021-2.813C5.287,28.76,3.651,27.49,1.625,27.5C-0.396,27.51-2.01,28.797-2,30.38l0.151,20.666  c0.011,1.589,1.651,2.859,3.672,2.844c2.021-0.005,3.636-1.291,3.625-2.875l-0.01-1.697h49.906l-0.016,2.031  c-0.01,1.416,1.438,2.567,3.25,2.578c1.808,0.01,3.271-1.125,3.281-2.547L62,30.115C62.011,28.693,60.558,27.542,58.75,27.531z   M20.083,21.5v-12h19.833v12H20.083z" /></svg>
